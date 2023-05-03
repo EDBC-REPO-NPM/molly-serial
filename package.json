@@ -1,0 +1,12 @@
+{
+  "repository": "https://github.com/EDBC-REPO-NPM/molly-serial",
+  "description": "molly-serial is a free and opensource",
+  "author": "becerraEnamneul",
+  "name": "molly-serial",
+  "version": "0.0.1",
+  "main": "main.js",
+  "license": "MIT",
+  "dependencies": {},
+  "keywords": ["serialPort"],
+  "scripts": { "start": "node main" }
+}
